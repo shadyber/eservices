@@ -1,0 +1,293 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202206 will be lost/reset.
+# Last config file used to build this data file was /home4/teleaddiscom/tmp/awstats/awstats.teleaddis.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2680                
+POS_VISITOR 7498                
+POS_DAY 8026                
+POS_DOMAIN 3233                
+POS_LOGIN 3486                
+POS_ROBOT 3641                
+POS_WORMS 3955                
+POS_EMAILSENDER 4086                
+POS_EMAILRECEIVER 4229                
+POS_SESSION 8148                
+POS_SIDER 8295                
+POS_FILETYPES 4364                
+POS_DOWNLOADS 4482                
+POS_OS 5181                
+POS_BROWSER 5292                
+POS_SCREENSIZE 5501                
+POS_UNKNOWNREFERER 5575                
+POS_UNKNOWNREFERERBROWSER 5913                
+POS_ORIGIN 6085                
+POS_SEREFERRALS 6217                
+POS_PAGEREFS 6361                
+POS_SEARCHWORDS 6544                
+POS_KEYWORDS 6696                
+POS_MISC 2344                
+POS_ERRORS 6755                
+POS_CLUSTER 3342                
+POS_SIDER_404 6867                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220701003842 25 5288 11400410954951
+FirstTime 0
+LastTime 20220630203734
+LastUpdate 20220701055734 25 0 24 0 0
+TotalVisits 11                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+AddToFavourites 0 3 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 46577 1 1 2034
+1 0 0 0 2 3 21983
+2 0 0 0 6 7 39684
+3 0 0 0 1 1 351
+4 0 0 0 0 0 0
+5 0 24 1744 7 42 1689724
+6 0 0 0 0 0 0
+7 0 0 0 1 2 375
+8 0 0 0 1 1 1238
+9 0 0 0 1 12 259655
+10 0 0 0 0 0 0
+11 0 0 0 1 2 7758
+12 0 0 0 3 4 6007
+13 1 1 13206 0 1 453
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 2 3 726
+17 4 4 29664 0 1 24
+18 1 1 5436 1 1 201
+19 0 0 0 0 0 0
+20 7 7 30908 2 6 1656
+21 0 0 0 0 0 0
+22 0 0 0 4 6 12332
+23 0 0 0 1 2 375
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 20 20 112585
+za 1 1 13206
+gb 0 24 1744
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 52 1945311 20220630092907 2
+DotBot/ 11 21848 20220630234752 10
+bingbot/ 2 7758 20220629111308 1
+unknown 1 24 20220630172329 1
+facebookexternalhit/ 1 5431 20220628125334 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+Unknown 8 54424 0 0
+html 13 71367 0 0
+txt 24 1744 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 9
+/.well-known/pki-validation/73EBE028D305732197247A06F0EA24E2.txt 16 0 1232
+/.well-known/pki-validation/28A95393F1565FE87BB10979495B079D.txt 1 0 64
+/.well-known/pki-validation/FB283FE7F8E0099C364737B8B833654D.txt 1 0 64
+/.well-known/pki-validation/A0CBA5DC092486F4CA1BA865BB8B0B3C.txt 1 0 64
+/.well-known/pki-validation/F121697DE68D6B8AE08062BC040B6A44.txt 1 0 64
+/.well-known/pki-validation/8B6CBEA7E38DAB9A98784D109B65BDBF.txt 1 0 64
+/.well-known/pki-validation/687C65522ACFEDECDCB4CF11F94E0407.txt 1 0 64
+/.well-known/pki-validation/F5F5B5AD5B92FA17642518402CF7505E.txt 1 0 64
+/.well-known/pki-validation/499293218071BA990C8068B506E205CA.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 32 8
+win10 4 4
+linux 2 2
+macosx14 7 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+cloudflare 3 3
+mozilla 4 4
+chrome103.0.5060.53 1 1
+chrome74.0.3729.169 7 7
+chrome66.0.3359.181 2 2
+chrome91.0.4472.114 1 1
+Unknown 25 1
+chrome83.0.4103.97 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_ips-agent) 20220630172334
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;_http://www.cloudflare.com/always-online) 20220628201028
+COMODO_DCV 20220628052702
+Sectigo_DCV 20220628052705
+python-requests/2.9.1 20220629001003
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+COMODO_DCV 20220628052702
+Sectigo_DCV 20220628052705
+python-requests/2.9.1 20220629001003
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 14 38
+From1 0 0
+From2 0 0
+From3 7 7
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://fbkwriter.com/about-me/ 7 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 13 4263
+403 1 4972
+404 11 53610
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/cdn-cgi/l/email-protection 1 -
+/category/cyber 1 -
+/category/assets/images/logo/logo.png 1 http://www.teleaddis.com/category/cyber
+/administrator/index.php 3 -
+/sms://9723&body=ok 1 http://fbkwriter.com/about-me/
+/assets/images/icons/selector-icon.png 1 http://www.teleaddis.com/assets/css/style.css
+/admin/index.php 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+35.225.163.183 8 8 46577 20220629001017
+72.13.62.27 4 4 29664 20220630172334
+172.69.31.87 1 1 0 20220628201028
+54.187.192.251 1 1 7727 20220629201522
+196.188.13.168 1 1 13206 20220628132443
+34.223.249.166 1 1 7727 20220630201908
+35.87.2.255 1 1 7727 20220630203734
+65.21.206.44 1 1 5436 20220628183824
+172.70.2.72 1 1 0 20220628201028
+34.221.97.49 1 1 7727 20220629201456
+172.70.9.74 1 1 0 20220628201028
+91.199.212.132 0 3 231 
+212.71.251.177 0 21 1513 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20220628 5 29 20386 5
+20220629 10 10 62031 3
+20220630 6 6 45118 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 13 71367 9 7
+/contact 2 9280 0 1
+/terms 1 6640 0 1
+/about 1 4026 0 0
+/cpanel 1 13206 1 1
+/login 1 5436 1 1
+/blog 1 10278 0 0
+/video 1 5558 0 0
+END_SIDER

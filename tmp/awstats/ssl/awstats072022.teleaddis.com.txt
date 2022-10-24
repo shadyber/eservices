@@ -1,0 +1,359 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202207 will be lost/reset.
+# Last config file used to build this data file was /home4/teleaddiscom/tmp/awstats/ssl/awstats.teleaddis.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2701                
+POS_VISITOR 10159               
+POS_DAY 11086               
+POS_DOMAIN 3417                
+POS_LOGIN 3729                
+POS_ROBOT 3884                
+POS_WORMS 4516                
+POS_EMAILSENDER 4647                
+POS_EMAILRECEIVER 4790                
+POS_SESSION 11316               
+POS_SIDER 11483               
+POS_FILETYPES 4925                
+POS_DOWNLOADS 5156                
+POS_OS 5204                
+POS_BROWSER 5347                
+POS_SCREENSIZE 5676                
+POS_UNKNOWNREFERER 5750                
+POS_UNKNOWNREFERERBROWSER 5976                
+POS_ORIGIN 6197                
+POS_SEREFERRALS 6332                
+POS_PAGEREFS 6476                
+POS_SEARCHWORDS 6624                
+POS_KEYWORDS 6776                
+POS_MISC 2364                
+POS_ERRORS 6835                
+POS_CLUSTER 3585                
+POS_SIDER_404 6996                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220709070801 158 43075 5752784828721
+FirstTime 20220701053409
+LastTime 20220709070102
+LastUpdate 20220709071659 158 0 158 0 0
+TotalVisits 22                  
+TotalUnique 21                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 21                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 10 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 33 42 616631
+1 0 0 0 36 68 657421
+2 0 0 0 43 51 387488
+3 1 1 5006 31 81 1061146
+4 0 0 0 25 31 902215
+5 26 49 385364 52 68 1680474
+6 12 45 2370053 56 74 325374
+7 2 2 591 46 53 802923
+8 8 43 2651411 31 38 427613
+9 0 0 0 43 63 353543
+10 0 0 0 20 28 143904
+11 0 0 0 31 74 1091203
+12 3 3 17050 25 58 754722
+13 0 0 0 39 45 487828
+14 1 1 7735 36 39 126582
+15 5 5 93308 30 85 1615470
+16 10 16 2094836 28 41 317638
+17 8 40 2312966 25 29 93826
+18 0 0 0 46 50 612884
+19 1 1 7723 38 63 517877
+20 3 3 23163 41 48 128983
+21 2 2 15446 28 37 335185
+22 1 1 21455 29 34 113872
+23 0 0 0 31 58 824642
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 40 63 616032
+za 22 63 4719371
+et 15 80 4613324
+ru 2 2 15446
+it 2 2 12744
+de 1 1 7735
+cl 1 1 21455
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bot[\s_+:,\.\;\/\\-] 351 2840687 20220709032636 10
+AhrefsBot/ 185 2526687 20220709062453 20
+Googlebot/ 85 956537 20220707210201 7
+bingbot/ 79 1377076 20220708231507 7
+SemrushBot/ 61 163251 20220709064322 38
+Googlebot\-Image/ 39 471360 20220706113804 0
+facebookexternalhit/ 4 46691 20220709035829 0
+yandex 4 9031 20220708100254 0
+Applebot/ 3 16654 20220707202410 2
+YandexBot/ 3 72 20220708083910 3
+MJ12bot/ 2 6287 20220705013513 1
+bingpreview 2 1075736 20220706155722 0
+unknown 2 48 20220704170936 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+js 61 608353 0 0
+png 21 69672 0 0
+css 22 626374 0 0
+json 2 342 0 0
+woff2 4 2151472 0 0
+html 28 272695 0 0
+woff 16 1359424 0 0
+jpg 25 4635678 0 0
+Unknown 33 282097 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+Unknown 5 5
+linux 12 12
+win8.1 2 2
+android10 54 16
+win10 93 25
+macosx11 46 23
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+Unknown 5 5
+chrome94.0.4606.61 2 2
+chrome83.0.4103.97 3 3
+edge17 1 1
+chrome103.0.0.0 87 19
+firefox84.0 1 1
+chrome96.0.4664.45 1 1
+chrome91.0.4472.114 2 2
+chrome102.0.0.0 54 16
+firefox52.0 46 23
+chrome58.0.3029.110 5 5
+chrome101.0.0.0 2 2
+chrome81.0.4044.129 1 1
+firefox52.9 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+ZaldamoSearchBot(www.zaldamo.com/search.html) 20220704170931
+Python/3.8_aiohttp/3.8.1 20220701053805
+python-requests/2.28.1 20220707155113
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.28.1 20220707155113
+Python/3.8_aiohttp/3.8.1 20220701053805
+ZaldamoSearchBot(www.zaldamo.com/search.html) 20220704170931
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 77
+From1 1 1
+From2 0 0
+From3 0 0
+From4 28 134
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 333 67047
+401 2 87
+422 6 822
+405 5 411206
+404 59 137002
+201 2 443
+500 21 4268310
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 25
+/images/blog/thumbnails/6217321bf2a54_Foldable%20iPhone%20Rumors:%20Will%20the%20'iPhone%20Flip'%20Ever%20Arrive 1 -
+/images/blog/thumbnails/6215ef12c4d3f_%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B5%20%E1%8A%A0%E1%8B%B5%E1%88%AD%E1%8C%88%E1%8A%95%20%E1%8D%8B%E1%8B%AD%E1%88%8E%E1%89%BD%E1%8A%95%20%E1%89%A0%E1%89%8B%E1%88%9A%E1%8A%90%E1%89%B5%20%E1%8A%A5%E1%8A%93%E1%88%B5%E1%89%8 2 https://www.teleaddis.com/category/security
+/cat/ai 4 -
+/images/blog/thumbnails/6215e082eb12e_%E1%8B%A8%E1%8A%A5%E1%8C%85%20%E1%88%B5%E1%88%8D%E1%8A%AB%E1%89%BD%E1%8A%95%E1%8A%95%20%E1%89%A0%E1%88%9B%E1%8C%BD%E1%8B%B3%E1%89%B5%20%E1%88%AB%E1%88%B3%E1%89%BD%E1%8A%95%E1%8A%95%20%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B 1 https://www.teleaddis.com/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id
+/images/blog/thumbnails/6215e42552880_%E1%8D%8D%E1%88%8B%E1%89%B5%20%E1%88%B5%E1%8A%AD%E1%88%AA%E1%8A%95%20%E1%89%B2%E1%89%AA%E1%8B%8E%E1%89%BD%E1%8A%95%20%C2%A0%E1%8B%A8%E1%88%9A%E1%8B%AB%E1%89%A0%E1%88%8B%E1%88%B9%205%20%E1%8A%90%E1%8C%88%E1%88%AE%E1%89% 1 https://www.teleaddis.com/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id
+/index.html 1 -
+/assets/images/bg/cyber.png 1 -
+/images/blog/thumbnails/6203e5308bccc_%E1%8B%A8%E1%88%9B%E1%88%85%E1%89%A0%E1%88%AB%E1%8B%8A%20%E1%88%9A%E1%8B%B2%E1%8B%AB%20%E1%89%B0%E1%8C%A0%E1%89%83%E1%88%9A%E1%8B%8E%E1%89%BD%20%E1%8A%A8%E1%88%80%E1%88%B0%E1%89%B0%E1%8A%9B%20%E1%88%98%E1%88%A8%E1%8C%8 1 https://www.teleaddis.com/category/news
+/cat/news 5 -
+/cat/cyber 4 -
+/images/blog/thumbnails/6203f234b4a9b_%E1%8B%A8%E1%88%B5%E1%88%9B%E1%88%AD%E1%89%B5%20%E1%88%9D%E1%88%B0%E1%88%B6%20%E1%89%B4%E1%8A%AD%E1%8A%96%E1%88%8E%E1%8C%82%20%E1%88%9D%E1%8A%95%E1%8B%B5%E1%8A%90%E1%8B%8D 1 https://teleaddis.com/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id
+/cat/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id 3 -
+/cat/software 3 -
+/images/blog/thumbnails/6215efaf9dc4e_%E1%88%B3%E1%88%9D%E1%88%B0%E1%8A%95%E1%8C%8D%20%E1%8A%A9%E1%89%A3%E1%8A%95%E1%8B%AB%E1%8A%95%20%E1%88%9D%E1%8A%95%20%E1%8B%AD%E1%8A%AD%E1%88%8D%20%E1%8B%AB%E1%8B%8D%E1%89%81%E1%89%B3%E1%88%8D%20How%20much%20do%20you%2 2 https://teleaddis.com/category/news
+/blog/assets/images/logo/logo.png 1 -
+/images/blog/thumbnails/6217328279b30_'What%20Goes%20With%20These%20Pants 1 -
+/cat/security 6 -
+/sitemap.xml 2 -
+/unsubscribe 3 -
+/password/assets/images/logo/logo.png 2 -
+/cdn-cgi/l/email-protection 2 https://www.teleaddis.com/contact
+/images/blog/thumbnails/6215f3ed1891f_%E1%88%B5%E1%88%8D%E1%8A%AB%E1%89%BD%E1%8A%95%20%E1%88%8B%E1%8B%AD%20%E1%8B%A8%E1%88%98%E1%8B%98%E1%8C%88%E1%89%A5%E1%8A%90%E1%8B%8D%E1%8A%95%20%E1%88%B5%E1%88%8D%E1%8A%AD%20%E1%89%81%E1%8C%A5%E1%88%AD%20%E1%8A%A5%E1%8 2 -
+/assets/images/icons/selector-icon.png 6 https://www.teleaddis.com/assets/css/style.css
+/category/assets/images/logo/logo.png 2 -
+/images/banner.jpg 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 21
+35.205.69.35 26 49 385364 20220701053805
+196.188.13.168 10 45 2660738 20220705121451
+196.189.62.252 10 16 2058042 20220701171014
+197.156.86.48 9 42 2314304 20220701065741
+197.156.86.105 6 38 2299020 20220701172711
+23.23.16.168 4 4 81036 20220703150854
+34.220.127.8 2 2 15446 20220702200551
+196.189.89.242 2 2 591 20220709070230 20220709070102 /api/register
+151.80.195.102 2 2 12744 20220703065628
+52.206.68.38 1 1 43005 20220702165050
+181.214.218.49 1 1 21455 20220707223340
+65.21.206.44 1 1 7723 20220703195153
+176.53.217.37 1 1 7723 20220701212429
+176.53.220.163 1 1 7723 20220702211533
+50.84.48.178 1 1 7735 20220704170931
+154.22.135.98 1 1 7723 20220706124434
+13.59.19.127 1 1 43005 20220701060122
+18.236.242.198 1 1 7717 20220704202446
+137.226.113.44 1 1 7735 20220707143607
+65.21.206.46 1 1 5006 20220703034006
+34.78.6.216 1 1 12272 20220707155113
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20220701 53 147 7107458 6
+20220702 4 4 66174 3
+20220703 8 8 106509 4
+20220704 10 45 2666863 3
+20220705 2 2 9327 1
+20220706 1 1 7723 1
+20220707 3 3 41462 3
+20220709 2 2 591 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30mn-1h 1
+2mn-5mn 1
+0s-30s 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/ 27 271790 17 13
+/about 6 90428 1 1
+/login 5 25115 1 2
+/contact 5 41485 2 3
+/assets/fonts/Gordita-thin.woff 4 329584 0 0
+/assets/fonts/icofont.woff2 4 2151472 0 0
+/assets/fonts/Gordita-regular-italic.woff 4 354304 0 1
+/assets/fonts/Gordita-regular.woff 4 337648 0 0
+/assets/fonts/Gordita-medium.woff 4 337888 0 0
+/category/software 2 22360 0 0
+/terms 2 13272 0 0
+/api/register 2 591 1 0
+/manifest.json 2 342 0 0
+/video 2 13063 0 0
+/register 2 11110 0 0
+/category/cyber 1 7502 0 0
+/category/security 1 8705 0 0
+/category/ai 1 8692 0 0
+/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id 1 9596 0 0
+/blog 1 8328 0 0
+/unprotected/loader.html 1 905 0 1
+/category/news 1 8850 0 0
+/cpanel 1 13000 0 0
+END_SIDER
