@@ -16,8 +16,7 @@
         "laravel/sanctum": "^2.14",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.3",
-        "laravelcollective/html": "^6.2",
-        "laravelium/sitemap": "^8.0"
+        "laravelcollective/html": "^6.2"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
