@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Tele Addis</title>
+    <title>E Services</title>
 
-    <meta name="description" content="teleAddis is one of the most popular blog template">
+    <meta name="description" content="EServices is one of the most popular blog template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <link rel="canonical" href="#" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="teleAddis - @yield('title')" />
+    <meta property="og:title" content="EServices - @yield('title')" />
 
     <!-- You can use Open Graph tags to customize link previews.
     Learn more: https://developers.facebook.com/docs/sharing/webmasters -->

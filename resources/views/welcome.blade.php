@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Tele Addis</title>
+    <title>E Services</title>
 
-    <meta name="description" content="teleAddis is one of the best blog created on cyber technology ">
+    <meta name="description" content="EServices is one of the best blog created on cyber technology ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <link rel="canonical" href="#" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="teleAddis - Updated Information and news about cyber technology" />
+    <meta property="og:title" content="EServices - Updated Information and news about cyber technology" />
     <meta property="og:url" content="" />
     <meta property="og:site_name" content="" />
     <meta property="og:image" content="" />
@@ -252,7 +252,7 @@
                     <a href="/blog" class="btn-primary btn-large btn-bg-4">{{__('Show More')}} <i class="icofont-long-arrow-right"></i></a>
                 </div>
 
-                <div class="fb-like" data-href="https://teleaddis.com"
+                <div class="fb-like" data-href="https://EServices.com"
                      data-width="10"
                      data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 

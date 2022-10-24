@@ -10,7 +10,7 @@
 
 
                 <h1> Who we are</h1>
-                Our website address is: http://teleaddis.com.
+                Our website address is: http://EServices.com.
 
              <h2> What personal data we collect and why we collect it </h2>
                 Comments

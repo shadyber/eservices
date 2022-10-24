@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title',$blog->title)
-@section('image','https://teleAddis.com/'.$blog->photo)
+@section('image','https://EServices.com/'.$blog->photo)
 @section('detail',$blog->detail)
 
 @section('content')
@@ -49,7 +49,7 @@
                                 {!! $blog->detail !!}
 
 
-                                <div class="fb-like" data-href="https://teleaddis.com/blog/{{$blog->slug}}"
+                                <div class="fb-like" data-href="https://EServices.com/blog/{{$blog->slug}}"
                                      data-width="10"
                                      data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 
@@ -217,11 +217,11 @@
                             <img src="assets/images/author/author-01.png" alt="">
                         </div>
                         <div class="author-title">
-                            <h4><a href="#">TeleAddis</a></h4>
+                            <h4><a href="#">EServices</a></h4>
                             <p>{{__('Author')}}, Super Admin</p>
                         </div>
                         <div class="author-details">
-                            <p>Teleaddis provide daily update on technology .</p>
+                            <p>EServices provide daily update on technology .</p>
 
                             <div class="author-post-share">
                                 <ul class="social-share-area">

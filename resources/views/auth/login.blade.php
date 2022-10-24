@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('title','Login to Read Amazing Contens in teladdis.com')
 
-@section('image','https://teleAddis.com/images/banner.jpg')
+@section('image','https://EServices.com/images/banner.jpg')
 @section('detail','contents is ready to for reading... login for access.')
 @section('content')
         <div class="container m-3">

@@ -7,7 +7,7 @@
     <!-- Tell the browser to be responsive to screen width -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords"
-          content="Admin, TeleAddis">
+          content="Admin, EServices">
     <meta name="description"
           content="Inspirational qouts">
     <meta name="robots" content="noindex,nofollow">
@@ -28,7 +28,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 
-    <title>teleAddis. @yield('title')</title>
+    <title>EServices. @yield('title')</title>
     <link rel="canonical" href="https://www.wrappixel.com/templates/ample-admin-lite/" />
     <!-- Favicon icon -->
     <link rel="icon" type="/admin/image/png" sizes="16x16" href="/admin/plugins/images/favicon.png">
@@ -251,7 +251,7 @@
         <!-- ============================================================== -->
         <!-- footer -->
         <!-- ============================================================== -->
-        <footer class="footer text-center"> 2022 © TeleAddis Admin brought to you by <a
+        <footer class="footer text-center"> 2022 © EServices Admin brought to you by <a
                 href="https://rootsystem.info">root system</a>
         </footer>
         <!-- ============================================================== -->

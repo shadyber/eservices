@@ -1,40 +1,40 @@
 AWSTATS DATA FILE 7.8 (build 20200416)
 # If you remove this file, all statistics for date 202206 will be lost/reset.
-# Last config file used to build this data file was /home4/teleaddiscom/tmp/awstats/ssl/awstats.teleaddis.com.conf.
+# Last config file used to build this data file was /home4/EServicescom/tmp/awstats/ssl/awstats.EServices.com.conf.
 
 # Position (offset in bytes) in this file for beginning of each section for
 # direct I/O access. If you made changes somewhere in this file, you should
 # also remove completely the MAP section (AWStats will rewrite it at next
 # update).
 BEGIN_MAP 28
-POS_GENERAL 2019                
-POS_TIME 2688                
-POS_VISITOR 9491                
-POS_DAY 10364               
-POS_DOMAIN 3364                
-POS_LOGIN 3690                
-POS_ROBOT 3845                
-POS_WORMS 4326                
-POS_EMAILSENDER 4457                
-POS_EMAILRECEIVER 4600                
-POS_SESSION 10492               
-POS_SIDER 10670               
-POS_FILETYPES 4735                
-POS_DOWNLOADS 4967                
-POS_OS 5015                
-POS_BROWSER 5170                
-POS_SCREENSIZE 5488                
-POS_UNKNOWNREFERER 5562                
-POS_UNKNOWNREFERERBROWSER 5712                
-POS_ORIGIN 5857                
-POS_SEREFERRALS 5992                
-POS_PAGEREFS 6155                
-POS_SEARCHWORDS 6303                
-POS_KEYWORDS 6455                
-POS_MISC 2352                
-POS_ERRORS 6514                
-POS_CLUSTER 3546                
-POS_SIDER_404 6676                
+POS_GENERAL 2019
+POS_TIME 2688
+POS_VISITOR 9491
+POS_DAY 10364
+POS_DOMAIN 3364
+POS_LOGIN 3690
+POS_ROBOT 3845
+POS_WORMS 4326
+POS_EMAILSENDER 4457
+POS_EMAILRECEIVER 4600
+POS_SESSION 10492
+POS_SIDER 10670
+POS_FILETYPES 4735
+POS_DOWNLOADS 4967
+POS_OS 5015
+POS_BROWSER 5170
+POS_SCREENSIZE 5488
+POS_UNKNOWNREFERER 5562
+POS_UNKNOWNREFERERBROWSER 5712
+POS_ORIGIN 5857
+POS_SEREFERRALS 5992
+POS_PAGEREFS 6155
+POS_SEARCHWORDS 6303
+POS_KEYWORDS 6455
+POS_MISC 2352
+POS_ERRORS 6514
+POS_CLUSTER 3546
+POS_SIDER_404 6676
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -50,10 +50,10 @@ LastLine 20220701000128 119 32317 25737308839017
 FirstTime 0
 LastTime 20220630221935
 LastUpdate 20220701055734 119 0 118 0 0
-TotalVisits 21                  
-TotalUnique 19                  
-MonthHostsKnown 0                   
-MonthHostsUnknown 21                  
+TotalVisits 21
+TotalUnique 19
+MonthHostsKnown 0
+MonthHostsUnknown 21
 END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
@@ -210,7 +210,7 @@ PostmanRuntime/7.29.0 20220628125426
 cortex/1.0 20220628125931
 END_UNKNOWNREFERERBROWSER
 
-# Origin - Pages - Hits 
+# Origin - Pages - Hits
 BEGIN_ORIGIN 6
 From0 30 38
 From1 0 0
@@ -254,32 +254,32 @@ END_ERRORS
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 27
 /blog 1 -
-/blog/assets/images/logo/logo.png 2 https://teleaddis.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
-/assets/images/bg/ia.png 2 https://teleaddis.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
-/cdn-cgi/l/email-protection 1 https://teleaddis.com/contact
+/blog/assets/images/logo/logo.png 2 https://EServices.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
+/assets/images/bg/ia.png 2 https://EServices.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
+/cdn-cgi/l/email-protection 1 https://EServices.com/contact
 /category/assets/images/logo/logo.png 1 -
 /images/blog/thumbnails/6215efaf9dc4e_%E1%88%B3%E1%88%9D%E1%88%B0%E1%8A%95%E1%8C%8D%20%E1%8A%A9%E1%89%A3%E1%8A%95%E1%8B%AB%E1%8A%95%20%E1%88%9D%E1%8A%95%20%E1%8B%AD%E1%8A%AD%E1%88%8D%20%E1%8B%AB%E1%8B%8D%E1%89%81%E1%89%B3%E1%88%8D%20How%20much%20do%20you%2 1 -
 /robots.txt 4 -
 /category/security 1 -
 /images/blog/thumbnails/6203e5308bccc_%E1%8B%A8%E1%88%9B%E1%88%85%E1%89%A0%E1%88%AB%E1%8B%8A%20%E1%88%9A%E1%8B%B2%E1%8B%AB%20%E1%89%B0%E1%8C%A0%E1%89%83%E1%88%9A%E1%8B%8E%E1%89%BD%20%E1%8A%A8%E1%88%80%E1%88%B0%E1%89%B0%E1%8A%9B%20%E1%88%98%E1%88%A8%E1%8C%8 2 -
-/blog/assets/images/author/author-01.png 1 https://teleaddis.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
-/blog/israeli-inquiry-finds-no-indication-police-used-spyware-unlawfully3tabpz7wf6m9xask2nd8oxlz0ti9qq4syktc68ap 1 https://teleaddis.com/blog
+/blog/assets/images/author/author-01.png 1 https://EServices.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
+/blog/israeli-inquiry-finds-no-indication-police-used-spyware-unlawfully3tabpz7wf6m9xask2nd8oxlz0ti9qq4syktc68ap 1 https://EServices.com/blog
 /assets/images/bg/security.png 1 -
 /images/banner.jpg 3 -
-/cat/software 1 https://www.teleaddis.com/video/fix-loose-charging-port-on-nexus-7-2nd-gen3tabpz7wf6m9xask2nd8oxlz0ti9qq4syktc68ap
+/cat/software 1 https://www.EServices.com/video/fix-loose-charging-port-on-nexus-7-2nd-gen3tabpz7wf6m9xask2nd8oxlz0ti9qq4syktc68ap
 /unsubscribe 2 -
-/cat/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id 1 https://www.teleaddis.com/blog
-/video/how-to-use-soldering-iron-computer-maintenance-mobile-phone-repairing-amharic-hmv1h4tbjdyxr6034yzooshyywuwsfictmqh4vay 1 https://www.teleaddis.com/video
-/video 2 https://www.teleaddis.com/video
+/cat/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id 1 https://www.EServices.com/blog
+/video/how-to-use-soldering-iron-computer-maintenance-mobile-phone-repairing-amharic-hmv1h4tbjdyxr6034yzooshyywuwsfictmqh4vay 1 https://www.EServices.com/video
+/video 2 https://www.EServices.com/video
 /wp-coreutils.php 1 -
 /images/blog/thumbnails/6215f3ed1891f_%E1%88%B5%E1%88%8D%E1%8A%AB%E1%89%BD%E1%8A%95%20%E1%88%8B%E1%8B%AD%20%E1%8B%A8%E1%88%98%E1%8B%98%E1%8C%88%E1%89%A5%E1%8A%90%E1%8B%8D%E1%8A%95%20%E1%88%B5%E1%88%8D%E1%8A%AD%20%E1%89%81%E1%8C%A5%E1%88%AD%20%E1%8A%A5%E1%8 1 -
 /JST10x.php 1 -
 /blog/jn7xul0faobuvgfh7iii6bbajir9w1jmkoukkexy-2 1 -
-/assets/images/bg/cyber.png 1 https://teleaddis.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
-/assets/images/icons/selector-icon.png 16 https://www.teleaddis.com/assets/css/style.css
+/assets/images/bg/cyber.png 1 https://EServices.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
+/assets/images/icons/selector-icon.png 16 https://www.EServices.com/assets/css/style.css
 /video/tecno-spark-7-pro-5g-8gb-ram-dimensity-800u-price-and-launching-datehmv1h4tbjdyxr6034yzooshyywuwsfictmqh4vay 1 -
-/blog/4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id-13 1 https://teleaddis.com/category/ai
-/images/blog/thumbnails/6215f4ef27893_ 1 https://teleaddis.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
+/blog/4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id-13 1 https://EServices.com/category/ai
+/images/blog/thumbnails/6215f4ef27893_ 1 https://EServices.com/blog/450-5-n4ttpouqu4bfy6mni5e1o08h0q3ypq6ztatgiqhl
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
@@ -305,8 +305,8 @@ BEGIN_VISITOR 21
 176.53.223.77 1 1 7723 20220629211851
 176.53.221.60 1 1 7723 20220630060644
 176.113.42.67 1 1 7723 20220629142056
-173.252.87.24 0 1 4790 
-69.171.251.120 0 1 4790 
+173.252.87.24 0 1 4790
+69.171.251.120 0 1 4790
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits

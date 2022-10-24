@@ -1,40 +1,40 @@
 AWSTATS DATA FILE 7.8 (build 20200416)
 # If you remove this file, all statistics for date 202206 will be lost/reset.
-# Last config file used to build this data file was /home4/teleaddiscom/tmp/awstats/awstats.teleaddis.com.conf.
+# Last config file used to build this data file was /home4/EServicescom/tmp/awstats/awstats.EServices.com.conf.
 
 # Position (offset in bytes) in this file for beginning of each section for
 # direct I/O access. If you made changes somewhere in this file, you should
 # also remove completely the MAP section (AWStats will rewrite it at next
 # update).
 BEGIN_MAP 28
-POS_GENERAL 2015                
-POS_TIME 2680                
-POS_VISITOR 7498                
-POS_DAY 8026                
-POS_DOMAIN 3233                
-POS_LOGIN 3486                
-POS_ROBOT 3641                
-POS_WORMS 3955                
-POS_EMAILSENDER 4086                
-POS_EMAILRECEIVER 4229                
-POS_SESSION 8148                
-POS_SIDER 8295                
-POS_FILETYPES 4364                
-POS_DOWNLOADS 4482                
-POS_OS 5181                
-POS_BROWSER 5292                
-POS_SCREENSIZE 5501                
-POS_UNKNOWNREFERER 5575                
-POS_UNKNOWNREFERERBROWSER 5913                
-POS_ORIGIN 6085                
-POS_SEREFERRALS 6217                
-POS_PAGEREFS 6361                
-POS_SEARCHWORDS 6544                
-POS_KEYWORDS 6696                
-POS_MISC 2344                
-POS_ERRORS 6755                
-POS_CLUSTER 3342                
-POS_SIDER_404 6867                
+POS_GENERAL 2015
+POS_TIME 2680
+POS_VISITOR 7498
+POS_DAY 8026
+POS_DOMAIN 3233
+POS_LOGIN 3486
+POS_ROBOT 3641
+POS_WORMS 3955
+POS_EMAILSENDER 4086
+POS_EMAILRECEIVER 4229
+POS_SESSION 8148
+POS_SIDER 8295
+POS_FILETYPES 4364
+POS_DOWNLOADS 4482
+POS_OS 5181
+POS_BROWSER 5292
+POS_SCREENSIZE 5501
+POS_UNKNOWNREFERER 5575
+POS_UNKNOWNREFERERBROWSER 5913
+POS_ORIGIN 6085
+POS_SEREFERRALS 6217
+POS_PAGEREFS 6361
+POS_SEARCHWORDS 6544
+POS_KEYWORDS 6696
+POS_MISC 2344
+POS_ERRORS 6755
+POS_CLUSTER 3342
+POS_SIDER_404 6867
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -50,10 +50,10 @@ LastLine 20220701003842 25 5288 11400410954951
 FirstTime 0
 LastTime 20220630203734
 LastUpdate 20220701055734 25 0 24 0 0
-TotalVisits 11                  
-TotalUnique 11                  
-MonthHostsKnown 0                   
-MonthHostsUnknown 13                  
+TotalVisits 11
+TotalUnique 11
+MonthHostsKnown 0
+MonthHostsUnknown 13
 END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
@@ -200,7 +200,7 @@ Sectigo_DCV 20220628052705
 python-requests/2.9.1 20220629001003
 END_UNKNOWNREFERERBROWSER
 
-# Origin - Pages - Hits 
+# Origin - Pages - Hits
 BEGIN_ORIGIN 6
 From0 14 38
 From1 0 0
@@ -241,10 +241,10 @@ END_ERRORS
 BEGIN_SIDER_404 7
 /cdn-cgi/l/email-protection 1 -
 /category/cyber 1 -
-/category/assets/images/logo/logo.png 1 http://www.teleaddis.com/category/cyber
+/category/assets/images/logo/logo.png 1 http://www.EServices.com/category/cyber
 /administrator/index.php 3 -
 /sms://9723&body=ok 1 http://fbkwriter.com/about-me/
-/assets/images/icons/selector-icon.png 1 http://www.teleaddis.com/assets/css/style.css
+/assets/images/icons/selector-icon.png 1 http://www.EServices.com/assets/css/style.css
 /admin/index.php 3 -
 END_SIDER_404
 
@@ -263,8 +263,8 @@ BEGIN_VISITOR 13
 172.70.2.72 1 1 0 20220628201028
 34.221.97.49 1 1 7727 20220629201456
 172.70.9.74 1 1 0 20220628201028
-91.199.212.132 0 3 231 
-212.71.251.177 0 21 1513 
+91.199.212.132 0 3 231
+212.71.251.177 0 21 1513
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits

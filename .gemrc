@@ -1,6 +1,6 @@
 ---
 "gem": '--remote --gen-rdoc --run-tests'
-"gemhome": '/home4/teleaddiscom/ruby/gems'
+"gemhome": '/home4/EServicescom/ruby/gems'
 "gempath": []
 
 "rdoc": '--inline-source --line-numbers'

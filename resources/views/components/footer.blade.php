@@ -10,7 +10,7 @@
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 footer-border">
                     <div class="single-footer-menu-item footer-item-space">
                         <div class="footer-widget-title">
-                            <h4 class="title">TeleAddis</h4>
+                            <h4 class="title">EServices</h4>
                         </div>
                         <ul class="footer-widget-menu-list">
                             <li><a href="/terms">{{__('Privacy Policy')}}</a></li>

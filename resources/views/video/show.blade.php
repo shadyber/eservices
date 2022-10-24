@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title',$video->title)
-@section('image','https://teleaddis.com/'.$video->thumb_big)
+@section('image','https://EServices.com/'.$video->thumb_big)
 @section('detail',$video->detail)
 
 @section('content')
@@ -120,11 +120,11 @@
                             <img src="assets/images/author/author-01.png" alt="">
                         </div>
                         <div class="author-title">
-                            <h4><a href="#">TeleAddis</a></h4>
+                            <h4><a href="#">EServices</a></h4>
                             <p>Author, Super Admin</p>
                         </div>
                         <div class="author-details">
-                            <p>Teleaddis provide daily update on technology .</p>
+                            <p>EServices provide daily update on technology .</p>
 
                             <div class="author-post-share">
                                 <ul class="social-share-area">

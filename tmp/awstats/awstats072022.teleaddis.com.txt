@@ -1,40 +1,40 @@
 AWSTATS DATA FILE 7.8 (build 20200416)
 # If you remove this file, all statistics for date 202207 will be lost/reset.
-# Last config file used to build this data file was /home4/teleaddiscom/tmp/awstats/awstats.teleaddis.com.conf.
+# Last config file used to build this data file was /home4/EServicescom/tmp/awstats/awstats.EServices.com.conf.
 
 # Position (offset in bytes) in this file for beginning of each section for
 # direct I/O access. If you made changes somewhere in this file, you should
 # also remove completely the MAP section (AWStats will rewrite it at next
 # update).
 BEGIN_MAP 28
-POS_GENERAL 2015                
-POS_TIME 2694                
-POS_VISITOR 7587                
-POS_DAY 8932                
-POS_DOMAIN 3329                
-POS_LOGIN 3607                
-POS_ROBOT 3762                
-POS_WORMS 4228                
-POS_EMAILSENDER 4359                
-POS_EMAILRECEIVER 4502                
-POS_SESSION 9168                
-POS_SIDER 9325                
-POS_FILETYPES 4637                
-POS_DOWNLOADS 4854                
-POS_OS 4921                
-POS_BROWSER 5127                
-POS_SCREENSIZE 5485                
-POS_UNKNOWNREFERER 5559                
-POS_UNKNOWNREFERERBROWSER 5704                
-POS_ORIGIN 5786                
-POS_SEREFERRALS 5921                
-POS_PAGEREFS 6065                
-POS_SEARCHWORDS 6213                
-POS_KEYWORDS 6365                
-POS_MISC 2358                
-POS_ERRORS 6424                
-POS_CLUSTER 3463                
-POS_SIDER_404 6542                
+POS_GENERAL 2015
+POS_TIME 2694
+POS_VISITOR 7587
+POS_DAY 8932
+POS_DOMAIN 3329
+POS_LOGIN 3607
+POS_ROBOT 3762
+POS_WORMS 4228
+POS_EMAILSENDER 4359
+POS_EMAILRECEIVER 4502
+POS_SESSION 9168
+POS_SIDER 9325
+POS_FILETYPES 4637
+POS_DOWNLOADS 4854
+POS_OS 4921
+POS_BROWSER 5127
+POS_SCREENSIZE 5485
+POS_UNKNOWNREFERER 5559
+POS_UNKNOWNREFERERBROWSER 5704
+POS_ORIGIN 5786
+POS_SEREFERRALS 5921
+POS_PAGEREFS 6065
+POS_SEARCHWORDS 6213
+POS_KEYWORDS 6365
+POS_MISC 2358
+POS_ERRORS 6424
+POS_CLUSTER 3463
+POS_SIDER_404 6542
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -50,10 +50,10 @@ LastLine 20220708223432 64 15209 16259810831849
 FirstTime 20220701053409
 LastTime 20220708223430
 LastUpdate 20220709071659 64 0 64 0 0
-TotalVisits 26                  
-TotalUnique 25                  
-MonthHostsKnown 0                   
-MonthHostsUnknown 28                  
+TotalVisits 26
+TotalUnique 25
+MonthHostsKnown 0
+MonthHostsUnknown 28
 END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
@@ -209,7 +209,7 @@ END_UNKNOWNREFERER
 BEGIN_UNKNOWNREFERERBROWSER 0
 END_UNKNOWNREFERERBROWSER
 
-# Origin - Pages - Hits 
+# Origin - Pages - Hits
 BEGIN_ORIGIN 6
 From0 65 93
 From1 0 0
@@ -256,7 +256,7 @@ BEGIN_SIDER_404 21
 /category/assets/images/logo/logo.png 1 -
 /sitemap.xml 1 -
 /images/blog/thumbnails/6217328279b30_'What%20Goes%20With%20These%20Pants 1 -
-/assets/fonts/Gordita-black-italic.woff 1 http://teleaddis.com/
+/assets/fonts/Gordita-black-italic.woff 1 http://EServices.com/
 /cat/cyber 4 -
 /unsubscribe 4 -
 /install.php 1 -
@@ -265,7 +265,7 @@ BEGIN_SIDER_404 21
 /cat/news 4 -
 /images/blog/thumbnails/6217321bf2a54_Foldable%20iPhone%20Rumors:%20Will%20the%20'iPhone%20Flip'%20Ever%20Arrive 1 -
 /ads.txt 2 -
-/assets/images/icons/selector-icon.png 2 http://teleaddis.com/assets/css/style.css
+/assets/images/icons/selector-icon.png 2 http://EServices.com/assets/css/style.css
 /assets/images/bg/ia.png 1 -
 /wp-login.php 1 -
 END_SIDER_404
@@ -299,9 +299,9 @@ BEGIN_VISITOR 28
 54.212.247.216 1 1 7727 20220701204611
 38.242.214.231 1 1 7727 20220706073628
 34.220.146.206 1 1 7727 20220704202441
-69.171.251.9 0 4 39895 
-69.171.251.119 0 2 91819 
-69.171.251.3 0 1 1156 
+69.171.251.9 0 4 39895
+69.171.251.119 0 2 91819
+69.171.251.3 0 1 1156
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits

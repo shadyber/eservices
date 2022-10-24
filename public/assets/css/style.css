@@ -9071,7 +9071,7 @@ input[type="checkbox"] {
   }
 }
 
-.teleAddis-row {
+.esevicess-row {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -9085,7 +9085,7 @@ input[type="checkbox"] {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
-  .teleAddis-row {
+  .esevicess-row {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -9099,7 +9099,7 @@ input[type="checkbox"] {
   }
 }
 
-.teleAddis-col-6 {
+.esevicess-col-6 {
   width: 50%;
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
@@ -9109,19 +9109,19 @@ input[type="checkbox"] {
   height: 100%;
 }
 
-.teleAddis-col-6:first-child {
+.esevicess-col-6:first-child {
   border-left: none;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
-  .teleAddis-col-6 {
+  .esevicess-col-6 {
     width: 100%;
     border-right: none;
     border-bottom: 1px solid #ddd;
   }
 }
 
-.teleAddis-history-title {
+.esevicess-history-title {
   font-size: 62px;
   font-weight: 300;
   margin-right: 30px;
@@ -9129,24 +9129,24 @@ input[type="checkbox"] {
   margin-bottom: 30px;
 }
 
-.teleAddis-history-title .f-w-bold {
+.esevicess-history-title .f-w-bold {
   font-weight: 600;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .teleAddis-history-title {
+  .esevicess-history-title {
     font-size: 42px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .teleAddis-history-title {
+  .esevicess-history-title {
     font-size: 42px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .teleAddis-history-title {
+  .esevicess-history-title {
     font-size: 22px;
   }
 }

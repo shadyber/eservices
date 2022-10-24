@@ -6,7 +6,7 @@
 
     <div class="blog-details-wrapper section-space--ptb_80">
         <div class="container">
-            <div class="fb-like" data-href="https://teleaddis.com/blog"
+            <div class="fb-like" data-href="https://EServices.com/blog"
                  data-width="10"
                  data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 
