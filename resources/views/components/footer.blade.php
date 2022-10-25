@@ -105,7 +105,7 @@
                 <div class="col-lg-12">
                     <div class="copy-right-center">
                         <p><a href="/unsubscribe">unsubscribe</a></p>
-                        <p>© 2022 <a href="#">MT ICT Technologies Plc.</a>. Made with ❤️ by <a target="_blank" rel="noopener" href="https://rootsystemset.com">r∞t system</a></p>
+                        <p>© 2022 <a href="#">Mindset SMS.</a>. Made with ❤️ by <a target="_blank" rel="noopener" href="https://rootsystemset.com">r∞t system</a></p>
                     </div>
                 </div>
             </div>

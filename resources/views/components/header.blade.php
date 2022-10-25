@@ -30,7 +30,7 @@
                 <div class="logo">
                     <a href="/">
                         <img src="/assets/images/logo/logo-4.png" alt="" />
-                        <p class="text-white">MT ICT Technology Plc.</p>
+                        <p class="text-white">Mindset SMS.</p>
                     </a>
                 </div>
                 <div class="main-menu-area text-center">
