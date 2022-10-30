@@ -1,7 +1,4 @@
 @extends('layouts.app')
-@section('title',\App\Models\Blog::find(rand(1,count(\App\Models\Blog::all())))->title)
-@section('detail',\App\Models\Blog::find(rand(1,count(\App\Models\Blog::all())))->detail)
-@section('image',\App\Models\Blog::find(rand(1,count(\App\Models\Blog::all())))->photo)
 @section('content')
 
     <div class="blog-details-wrapper section-space--ptb_80">

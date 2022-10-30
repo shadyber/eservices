@@ -40,7 +40,7 @@ class LoginController extends Controller
     public function __construct()
     {
         $this->middleware('guest')->except('logout');
-      //  $this->user = new User;
+        $this->user = new User;
     }
 
     public function login(Request $request)
