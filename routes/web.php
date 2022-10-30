@@ -142,11 +142,14 @@ Route::get('/restart-server',function (){
 
     echo  $exitCode3;
 });
+
 Route::get('/mail-test',function (){
     $user=\App\Models\User::find(1);
     $user->Notify(new \App\Notifications\UserRegisteredNotification());
     echo "Notified";
 });
+
+
 Route::get('sitemap', function() {
 
     // create new sitemap object
@@ -189,7 +192,6 @@ Route::get('sitemap', function() {
 
 
     }
-
 
     // show your sitemap (options: 'xml' (default), 'html', 'txt', 'ror-rss', 'ror-rdf')
     return $sitemap->render('txt');

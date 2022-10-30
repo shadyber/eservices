@@ -74,60 +74,23 @@
 
 @include('components.header')
 <div id="main-wrapper">
-    <div class="site-wrapper-reveal">
+   <div class="site-wrapper-reveal">
 
-        <!-- Hero Area Start -->
-        <div class="hero-area-four">
-            <div class="swiper-container hero-slider-four-active">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-10 m-auto">
-                                    <div class="hero-area-four-post text-center" data-aos="fade-up">
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
 
-                                        <div class="hero-area-four-post-meta mb-20">
-                                                <span class="hero-area-four-post-author">
-                                                By <a href="#">Super Admin</a>
-                                            </span>
-                                            <span class="hero-area-four-post-date">
-                                                <a href="#">03 April, 2021</a>
-                                            </span>
-                                            <span class="time">10 min read</span>
-                                        </div>
-
-                                        <h1 class="title"><a href="/blog">
-                                                We Care About Your Phone  </a>
-
-                                        </h1>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="slider-four-slider-navigation">
-                <div class="slider-four-button-next navigation-button"><i class="icofont-long-arrow-left"></i></div>
-                <div class="slider-four-button-prev navigation-button"><i class="icofont-long-arrow-right"></i></div>
-            </div>
-
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+        <img src="http://eservices.test/assets/images/banners/home-four-newsletter-bg.jpg" class="d-block w-100" alt="...">
         </div>
-        <!-- Hero Area End -->
-
-        <div class="hero-four-image">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-7 col-md-10 m-auto">
-                        <div class="hero-four-inner-image" data-aos="fade-up">
-                            <img src="/assets/images/hero/home-4-hero-image-01.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="carousel-item">
+        <img src="http://eservices.test/assets/images/banners/home-three-newsletter-bg.jpg" class="d-block w-100" alt="...">
         </div>
+        <div class="carousel-item">
+        <img src="http://eservices.test/assets/images/banners/home-two-newsletter-bg.jpg" class="d-block w-100" alt="...">
+        </div>
+  </div>
 
+</div>
         <div class="mostpopular-category-area section-space--pt_100">
             <div class="container">
                 <div class="row">
