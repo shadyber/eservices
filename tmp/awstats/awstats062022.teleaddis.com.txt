@@ -1,6 +1,6 @@
 AWSTATS DATA FILE 7.8 (build 20200416)
 # If you remove this file, all statistics for date 202206 will be lost/reset.
-# Last config file used to build this data file was /home4/EServicescom/tmp/awstats/awstats.EServices.com.conf.
+# Last config file used to build this data file was /home4/EServicescom/tmp/awstats/awstats.esevicess.com.conf.
 
 # Position (offset in bytes) in this file for beginning of each section for
 # direct I/O access. If you made changes somewhere in this file, you should
@@ -241,10 +241,10 @@ END_ERRORS
 BEGIN_SIDER_404 7
 /cdn-cgi/l/email-protection 1 -
 /category/cyber 1 -
-/category/assets/images/logo/logo.png 1 http://www.EServices.com/category/cyber
+/category/assets/images/logo/logo.png 1 http://www.esevicess.com/category/cyber
 /administrator/index.php 3 -
 /sms://9723&body=ok 1 http://fbkwriter.com/about-me/
-/assets/images/icons/selector-icon.png 1 http://www.EServices.com/assets/css/style.css
+/assets/images/icons/selector-icon.png 1 http://www.esevicess.com/assets/css/style.css
 /admin/index.php 3 -
 END_SIDER_404
 

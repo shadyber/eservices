@@ -25,7 +25,7 @@
                 </div>
                 <div class="fw-col-xs-12 fw-col-sm-4 contact-col">
                     <div class="icon icon-font icon-envelope"></div>
-                    <p><a href="mailto:support@promo-themes.com">support@EServices.com</a></p>
+                    <p><a href="mailto:support@promo-themes.com">support@esevicess.com</a></p>
                 </div>
             </div>
         </div>

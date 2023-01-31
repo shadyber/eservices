@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title',$blog->title)
-@section('image','https://EServices.com/'.$blog->photo)
+@section('image','https://esevicess.com/'.$blog->photo)
 @section('detail',$blog->detail)
 
 @section('content')
@@ -49,7 +49,7 @@
                                 {!! $blog->detail !!}
 
 
-                                <div class="fb-like" data-href="https://EServices.com/blog/{{$blog->slug}}"
+                                <div class="fb-like" data-href="https://esevicess.com/blog/{{$blog->slug}}"
                                      data-width="10"
                                      data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 

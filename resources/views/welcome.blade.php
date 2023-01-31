@@ -215,7 +215,7 @@
                     <a href="/blog" class="btn-primary btn-large btn-bg-4">{{__('Show More')}} <i class="icofont-long-arrow-right"></i></a>
                 </div>
 
-                <div class="fb-like" data-href="https://EServices.com"
+                <div class="fb-like" data-href="https://esevicess.com"
                      data-width="10"
                      data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 

@@ -42,7 +42,7 @@ namespace App\Http\Controllers\api;
   if(empty($header)){
 
     return response(['result' => false,'message'=>'API requested without authorization header!']);
-  }else if(!$header='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkV0aGlvdGVsIiwiaWF0IjoxNTE2MjM5MDIyfQ.A2m08nnDojpTPuTrAZDY3ntgBuMv6WwG3_syEEu7dDU'){
+  }else if(!$header='Bearer 079fe65c295bae8e815012ee090728fe3914a419b2d8c0b0b03d466c088e79af'){
 
     return response(['result' => false,'message'=>'API requested  authorization header invalid!']);
   }
@@ -58,7 +58,7 @@ namespace App\Http\Controllers\api;
           $tel = preg_replace("/^\+?{$country_code}/", '0',$tel);
 
           $name=$request['name'] ? $request['name'] : $tel;
-          $email=$request['email'] ? $request['email'] : $tel.'@EServices.com';
+          $email=$request['email'] ? $request['email'] : $tel.'@esevicess.com';
 
           $password=$request['password'];;
 
@@ -139,7 +139,7 @@ namespace App\Http\Controllers\api;
         if(empty($header)){
 
           return response(['result' => false,'message'=>'API requested without authorization header!']);
-        }else if(!$header='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkV0aGlvdGVsIiwiaWF0IjoxNTE2MjM5MDIyfQ.A2m08nnDojpTPuTrAZDY3ntgBuMv6WwG3_syEEu7dDU'){
+        }else if(!$header='Bearer 079fe65c295bae8e815012ee090728fe3914a419b2d8c0b0b03d466c088e79af'){
 
           return response(['result' => false,'message'=>'API requested  authorization header invalid!']);
         }

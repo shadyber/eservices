@@ -1,6 +1,6 @@
 AWSTATS DATA FILE 7.8 (build 20200416)
 # If you remove this file, all statistics for date 202207 will be lost/reset.
-# Last config file used to build this data file was /home4/EServicescom/tmp/awstats/ssl/awstats.EServices.com.conf.
+# Last config file used to build this data file was /home4/EServicescom/tmp/awstats/ssl/awstats.esevicess.com.conf.
 
 # Position (offset in bytes) in this file for beginning of each section for
 # direct I/O access. If you made changes somewhere in this file, you should
@@ -258,28 +258,28 @@ END_ERRORS
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 25
 /images/blog/thumbnails/6217321bf2a54_Foldable%20iPhone%20Rumors:%20Will%20the%20'iPhone%20Flip'%20Ever%20Arrive 1 -
-/images/blog/thumbnails/6215ef12c4d3f_%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B5%20%E1%8A%A0%E1%8B%B5%E1%88%AD%E1%8C%88%E1%8A%95%20%E1%8D%8B%E1%8B%AD%E1%88%8E%E1%89%BD%E1%8A%95%20%E1%89%A0%E1%89%8B%E1%88%9A%E1%8A%90%E1%89%B5%20%E1%8A%A5%E1%8A%93%E1%88%B5%E1%89%8 2 https://www.EServices.com/category/security
+/images/blog/thumbnails/6215ef12c4d3f_%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B5%20%E1%8A%A0%E1%8B%B5%E1%88%AD%E1%8C%88%E1%8A%95%20%E1%8D%8B%E1%8B%AD%E1%88%8E%E1%89%BD%E1%8A%95%20%E1%89%A0%E1%89%8B%E1%88%9A%E1%8A%90%E1%89%B5%20%E1%8A%A5%E1%8A%93%E1%88%B5%E1%89%8 2 https://www.esevicess.com/category/security
 /cat/ai 4 -
-/images/blog/thumbnails/6215e082eb12e_%E1%8B%A8%E1%8A%A5%E1%8C%85%20%E1%88%B5%E1%88%8D%E1%8A%AB%E1%89%BD%E1%8A%95%E1%8A%95%20%E1%89%A0%E1%88%9B%E1%8C%BD%E1%8B%B3%E1%89%B5%20%E1%88%AB%E1%88%B3%E1%89%BD%E1%8A%95%E1%8A%95%20%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B 1 https://www.EServices.com/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id
-/images/blog/thumbnails/6215e42552880_%E1%8D%8D%E1%88%8B%E1%89%B5%20%E1%88%B5%E1%8A%AD%E1%88%AA%E1%8A%95%20%E1%89%B2%E1%89%AA%E1%8B%8E%E1%89%BD%E1%8A%95%20%C2%A0%E1%8B%A8%E1%88%9A%E1%8B%AB%E1%89%A0%E1%88%8B%E1%88%B9%205%20%E1%8A%90%E1%8C%88%E1%88%AE%E1%89% 1 https://www.EServices.com/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id
+/images/blog/thumbnails/6215e082eb12e_%E1%8B%A8%E1%8A%A5%E1%8C%85%20%E1%88%B5%E1%88%8D%E1%8A%AB%E1%89%BD%E1%8A%95%E1%8A%95%20%E1%89%A0%E1%88%9B%E1%8C%BD%E1%8B%B3%E1%89%B5%20%E1%88%AB%E1%88%B3%E1%89%BD%E1%8A%95%E1%8A%95%20%E1%8A%A5%E1%8A%95%E1%8B%B4%E1%89%B 1 https://www.esevicess.com/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id
+/images/blog/thumbnails/6215e42552880_%E1%8D%8D%E1%88%8B%E1%89%B5%20%E1%88%B5%E1%8A%AD%E1%88%AA%E1%8A%95%20%E1%89%B2%E1%89%AA%E1%8B%8E%E1%89%BD%E1%8A%95%20%C2%A0%E1%8B%A8%E1%88%9A%E1%8B%AB%E1%89%A0%E1%88%8B%E1%88%B9%205%20%E1%8A%90%E1%8C%88%E1%88%AE%E1%89% 1 https://www.esevicess.com/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id
 /index.html 1 -
 /assets/images/bg/cyber.png 1 -
-/images/blog/thumbnails/6203e5308bccc_%E1%8B%A8%E1%88%9B%E1%88%85%E1%89%A0%E1%88%AB%E1%8B%8A%20%E1%88%9A%E1%8B%B2%E1%8B%AB%20%E1%89%B0%E1%8C%A0%E1%89%83%E1%88%9A%E1%8B%8E%E1%89%BD%20%E1%8A%A8%E1%88%80%E1%88%B0%E1%89%B0%E1%8A%9B%20%E1%88%98%E1%88%A8%E1%8C%8 1 https://www.EServices.com/category/news
+/images/blog/thumbnails/6203e5308bccc_%E1%8B%A8%E1%88%9B%E1%88%85%E1%89%A0%E1%88%AB%E1%8B%8A%20%E1%88%9A%E1%8B%B2%E1%8B%AB%20%E1%89%B0%E1%8C%A0%E1%89%83%E1%88%9A%E1%8B%8E%E1%89%BD%20%E1%8A%A8%E1%88%80%E1%88%B0%E1%89%B0%E1%8A%9B%20%E1%88%98%E1%88%A8%E1%8C%8 1 https://www.esevicess.com/category/news
 /cat/news 5 -
 /cat/cyber 4 -
-/images/blog/thumbnails/6203f234b4a9b_%E1%8B%A8%E1%88%B5%E1%88%9B%E1%88%AD%E1%89%B5%20%E1%88%9D%E1%88%B0%E1%88%B6%20%E1%89%B4%E1%8A%AD%E1%8A%96%E1%88%8E%E1%8C%82%20%E1%88%9D%E1%8A%95%E1%8B%B5%E1%8A%90%E1%8B%8D 1 https://EServices.com/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id
+/images/blog/thumbnails/6203f234b4a9b_%E1%8B%A8%E1%88%B5%E1%88%9B%E1%88%AD%E1%89%B5%20%E1%88%9D%E1%88%B0%E1%88%B6%20%E1%89%B4%E1%8A%AD%E1%8A%96%E1%88%8E%E1%8C%82%20%E1%88%9D%E1%8A%95%E1%8B%B5%E1%8A%90%E1%8B%8D 1 https://esevicess.com/category/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id
 /cat/phone-care4wgvl9fq5dfgjknxzhgwmufgdn9k5opwicmez1id 3 -
 /cat/software 3 -
-/images/blog/thumbnails/6215efaf9dc4e_%E1%88%B3%E1%88%9D%E1%88%B0%E1%8A%95%E1%8C%8D%20%E1%8A%A9%E1%89%A3%E1%8A%95%E1%8B%AB%E1%8A%95%20%E1%88%9D%E1%8A%95%20%E1%8B%AD%E1%8A%AD%E1%88%8D%20%E1%8B%AB%E1%8B%8D%E1%89%81%E1%89%B3%E1%88%8D%20How%20much%20do%20you%2 2 https://EServices.com/category/news
+/images/blog/thumbnails/6215efaf9dc4e_%E1%88%B3%E1%88%9D%E1%88%B0%E1%8A%95%E1%8C%8D%20%E1%8A%A9%E1%89%A3%E1%8A%95%E1%8B%AB%E1%8A%95%20%E1%88%9D%E1%8A%95%20%E1%8B%AD%E1%8A%AD%E1%88%8D%20%E1%8B%AB%E1%8B%8D%E1%89%81%E1%89%B3%E1%88%8D%20How%20much%20do%20you%2 2 https://esevicess.com/category/news
 /blog/assets/images/logo/logo.png 1 -
 /images/blog/thumbnails/6217328279b30_'What%20Goes%20With%20These%20Pants 1 -
 /cat/security 6 -
 /sitemap.xml 2 -
 /unsubscribe 3 -
 /password/assets/images/logo/logo.png 2 -
-/cdn-cgi/l/email-protection 2 https://www.EServices.com/contact
+/cdn-cgi/l/email-protection 2 https://www.esevicess.com/contact
 /images/blog/thumbnails/6215f3ed1891f_%E1%88%B5%E1%88%8D%E1%8A%AB%E1%89%BD%E1%8A%95%20%E1%88%8B%E1%8B%AD%20%E1%8B%A8%E1%88%98%E1%8B%98%E1%8C%88%E1%89%A5%E1%8A%90%E1%8B%8D%E1%8A%95%20%E1%88%B5%E1%88%8D%E1%8A%AD%20%E1%89%81%E1%8C%A5%E1%88%AD%20%E1%8A%A5%E1%8 2 -
-/assets/images/icons/selector-icon.png 6 https://www.EServices.com/assets/css/style.css
+/assets/images/icons/selector-icon.png 6 https://www.esevicess.com/assets/css/style.css
 /category/assets/images/logo/logo.png 2 -
 /images/banner.jpg 2 -
 END_SIDER_404

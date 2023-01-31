@@ -1,6 +1,6 @@
 AWSTATS DATA FILE 7.8 (build 20200416)
 # If you remove this file, all statistics for date 202207 will be lost/reset.
-# Last config file used to build this data file was /home4/EServicescom/tmp/awstats/awstats.EServices.com.conf.
+# Last config file used to build this data file was /home4/EServicescom/tmp/awstats/awstats.esevicess.com.conf.
 
 # Position (offset in bytes) in this file for beginning of each section for
 # direct I/O access. If you made changes somewhere in this file, you should
@@ -256,7 +256,7 @@ BEGIN_SIDER_404 21
 /category/assets/images/logo/logo.png 1 -
 /sitemap.xml 1 -
 /images/blog/thumbnails/6217328279b30_'What%20Goes%20With%20These%20Pants 1 -
-/assets/fonts/Gordita-black-italic.woff 1 http://EServices.com/
+/assets/fonts/Gordita-black-italic.woff 1 http://esevicess.com/
 /cat/cyber 4 -
 /unsubscribe 4 -
 /install.php 1 -
@@ -265,7 +265,7 @@ BEGIN_SIDER_404 21
 /cat/news 4 -
 /images/blog/thumbnails/6217321bf2a54_Foldable%20iPhone%20Rumors:%20Will%20the%20'iPhone%20Flip'%20Ever%20Arrive 1 -
 /ads.txt 2 -
-/assets/images/icons/selector-icon.png 2 http://EServices.com/assets/css/style.css
+/assets/images/icons/selector-icon.png 2 http://esevicess.com/assets/css/style.css
 /assets/images/bg/ia.png 1 -
 /wp-login.php 1 -
 END_SIDER_404
