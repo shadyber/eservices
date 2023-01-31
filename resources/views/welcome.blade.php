@@ -80,13 +80,13 @@
 
         <div class="carousel-inner">
         <div class="carousel-item active">
-        <img src="http://eservices.test/assets/images/banners/home-four-newsletter-bg.jpg" class="d-block w-100" alt="...">
+        <img src="https://esevicess.com/assets/images/banners/home-four-newsletter-bg.jpg" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-        <img src="http://eservices.test/assets/images/banners/home-three-newsletter-bg.jpg" class="d-block w-100" alt="...">
+        <img src="https://esevicess.com/assets/images/banners/home-three-newsletter-bg.jpg" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-        <img src="http://eservices.test/assets/images/banners/home-two-newsletter-bg.jpg" class="d-block w-100" alt="...">
+        <img src="https://esevicess.com/assets/images/banners/home-two-newsletter-bg.jpg" class="d-block w-100" alt="...">
         </div>
   </div>
 
