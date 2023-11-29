@@ -2,8 +2,8 @@
 
 namespace App\Providers;
 
-use App\Models\Permission;
-use Illuminate\Auth\Access\Gate;
+use App\Models\Permission; 
+use Gate;
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
 
@@ -29,7 +29,7 @@ class PermissionServiceProvider extends ServiceProvider
         try {
             Permission::get()->map(function ($permission) {
                 Gate::define($permission->slug, function ($user) use ($permission) {
-                    return $user->hasPermissionTo($permission);
+                 return $user->hasPermissionTo($permission);
                 });
             });
         } catch (\Exception $e) {

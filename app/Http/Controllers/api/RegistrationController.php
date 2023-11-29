@@ -10,25 +10,7 @@ namespace App\Http\Controllers\api;
 
   class RegistrationController extends Controller
   {
-      /**
-       * Display a listing of the resource.
-       *
-       * @return \Illuminate\Http\Response
-       */
-      public function index()
-      {
-          //
-      }
-
-      /**
-       * Show the form for creating a new resource.
-       *
-       * @return \Illuminate\Http\Response
-       */
-      public function create()
-      {
-          //
-      }
+ 
 
       /**
        * Store a newly created resource in storage.
@@ -38,21 +20,25 @@ namespace App\Http\Controllers\api;
        */
       public function store(Request $request)
       {
-  $header=$request->header('Authorization');
-  if(empty($header)){
 
-    return response(['result' => false,'message'=>'API requested without authorization header!']);
-  }else if(!$header='Bearer 079fe65c295bae8e815012ee090728fe3914a419b2d8c0b0b03d466c088e79af'){
+      
+    $header=$request->header('Authorization');
 
-    return response(['result' => false,'message'=>'API requested  authorization header invalid!']);
-  }
-
-
-      $data = $request->validate([
+          if(empty($header)){ 
+            return response(['result' => false,'message'=>'API requested without authorization header!']);
+          }else if(!$header='Bearer 079fe65c295bae8e815012ee090728fe3914a419b2d8c0b0b03d466c088e79af'){
+          
+            return response(['result' => false,'message'=>'API requested  authorization header invalid!']);
+          }
+        
+        
+       $data = $request->validate([
           'tel' => 'required',
-          'password' => 'required'
+          'password' =>'',
+          
         ]);
 
+ 
           $tel=$request['tel'];
           $country_code='+251';
           $tel = preg_replace("/^\+?{$country_code}/", '0',$tel);
@@ -61,9 +47,9 @@ namespace App\Http\Controllers\api;
           $email=$request['email'] ? $request['email'] : $tel.'@esevicess.com';
 
           $password=$request['password'];;
-
-
+ 
     $user = new User();
+ 
   try{
 
             $user->name =$name;
